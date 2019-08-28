@@ -57,7 +57,7 @@ def monopoly_with_fourth_tier
       four_piece_owened: 200
     },
     names:{
-      reading_railroad{},
+      reading_railroad{mortage_value => "$100"},
       pennsylnia_railroad{},
       b_and_o_railroad{},
       shortline_railroad{},
